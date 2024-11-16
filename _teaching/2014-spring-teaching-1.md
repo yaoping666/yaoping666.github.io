@@ -3,8 +3,8 @@ title: "Intenship experience 1"
 collection: teaching
 type: "Huatai Securities Research Institute"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Financial Engineering Group，Sep. 2022 to Apr. 2023"
-# date: 2014-01-01
+venue: "Financial Engineering Group Sep. 2022 to Apr. 2023"
+
 location: "City, Country"
 ---
 * Compiled the codes of style rotation,sector rotation and 30 technical factors independently.
