@@ -4,7 +4,7 @@ collection: teaching
 type: "Quantitative strategy department of CITIC Construction Investment Fund"
 permalink: /teaching/2015-spring-teaching-1
 venue: " June. 2023 — Sep. 2023"
-date: 
+# date: 
 location: "City, Country"
 ---
 * Compiled the codes of quantitative stock selection strategies based on stock chart patterns.
