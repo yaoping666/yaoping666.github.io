@@ -32,7 +32,7 @@ Publications
 
 Research Experience
 ======
-* Comparative research on liquidity Index based on asset pricing model | Graduation thesis	June. 2023
+* Comparative research on liquidity Index based on asset pricing model | Graduation thesis，	June. 2023
   * Supervised by Prof. Mei Yu.
   * Liquidity factors were constructed from three indexes, High-low spread, turnover rate and Amihud illiquidity index, and were introduced into CAPM model and 
     Fama-French three-factor model.
@@ -40,20 +40,53 @@ Research Experience
     role in the asset pricing process.
   * Studied the applicability of liquidity index and asset pricing model for other small and medium-sized stock markets in China, and found that the liquidity 
     premium phenomenon in these markets is not obvious.
-
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+* Decomposing and valuing exchangeable bonds: a new design based on multi stocks | working paper， Dec. 2023
+  * Supervised by Prof. Jianfen Feng.
+  * Based on the situation that large shareholders hold multiple stocks, this paper designs a research framework of the exchangeable bond based on multi stocks and 
+    creatively designs the redemption trigger scale adjustment factor.
+  * Provided numerical example, studied the valuation for exchangeable bonds and sensitivity analysis of parameters by combining the least squares Monte Carlo 
+    simulation method and the public random number method.
+  * Compared with single-asset exchangeable bonds, exchangeable bonds based on multi-assets increases the option of the conversion resulting in the higher value of 
+    the bonds. The sensitivity analysis shows that the redemption clause has a similar effect, while the selling back clause has little effect on the exchangeable 
+    bonds based on two assets.
+* Clustering strategies based on stock price patterns | Course paper，	Jan. 2024
+  * Worked as a team leader on group assignments, responsible for topic selection, data collection, programming.
+  * Extracted key price points of the stock chart to quantify the stock price patterns, and the K-clustering and support vector machine algorithms were used to 
+    predict and select stocks. Calculated two-year holding returns.
+  * Calculated the difference between each closing price chart and the two adjacent closing prices. The first few key points which were the most different from the 
+    adjacent points were used as the standard of classification.
+  * Chose the tan value of the Angle between the lines of the two key price points to represent the rise and fall.
+  * The overall performance of the strategy is better, with higher annualized return, smaller volatility and maximum retracement, larger sharpe ratio and net 
+    worth, and significantly better than CSI300 in various indicators.
+* The impact of climate policy uncertainty on energy market and CER market | Graduation thesis， May. 2024
+  * Supervised by Prof. Jianfen Feng.
+  * Research on how the impact of climate policy uncertainty affects the thermal coal futures market, crude oil futures market and carbon emission permit market, 
+    and the difference of this impact under different market conditions.
+  * Used QVAR model to analyze the impulse responses under different quantile conditions, and measure the response of different markets to the shock of Chinese 
+    climate policy uncertainty.
+  * Calculated directional, net and total spillover indexes to analyze the static spillover effects between climate policy uncertainty and energy market returns. 
+    The rolling window is set as 36 months to observe the time series characteristics of the dynamic spillover effect between climate policy uncertainty and market 
+    returns.
+* The impact of blockchain environmental monitoring on urban pollution | Research project，	Jun. 2024
+  * Supervised by Prof. Will Cong and Prof. Yuanyu Qu.
+  * As a research assistant, was responsible for data collection, empirical research and writing the intro of the paper.
+  * Downloaded air quality data from the websites of prefecture-level and county-level municipal governments and extracted pollutants and economic indicators from 
+    statistical yearbooks, and used R for seasonal adjustment.
+  * Used propensity score matching to find control groups with similar characteristics to the treatment group which are Cities that have used blockchain technology 
+    in environmental monitoring.
+  * Defined the industry classification of air pollution, high emissions, high nitrogen and phosphorus emissions according to various types of pollution and 
+    environment related documents issued by the government.
+* Forecasting Market Returns: The Role of Industries in China | Working paper，	Sep. 2024
+  * Supervised by Prof. Jianfei Sun.
+  * Investigated whether the returns of industry portfolios predict stock market movements. In Chinense stock market, a significant number of industry returns 
+    forecast the stock market by up to two months.
+  * Examined the ability of these industries to predict the market in comparison to well-known predictors such as inflation, default spread, and dividend yield and     find comparable forecasting power.
+  * Examined the ability of these industries to predict the economic activity and observing the relation between the two sets of coefficients which indicates that 
+    an industry's predictive ability is strongly correlated with its propensity to forecast indicators of economic activity.
 
 How to edit your site's GitHub repository
 ------
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
