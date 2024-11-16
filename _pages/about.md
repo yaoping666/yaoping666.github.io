@@ -32,7 +32,7 @@ Publications
 
 Research Experience
 ======
-* Comparative research on liquidity Index based on asset pricing model | Graduation thesis，	June. 2023
+* Comparative research on liquidity Index based on asset pricing model ， Graduation thesis，	June. 2023
   * Supervised by Prof. Mei Yu.
   * Liquidity factors were constructed from three indexes, High-low spread, turnover rate and Amihud illiquidity index, and were introduced into CAPM model and 
     Fama-French three-factor model.
@@ -40,7 +40,7 @@ Research Experience
     role in the asset pricing process.
   * Studied the applicability of liquidity index and asset pricing model for other small and medium-sized stock markets in China, and found that the liquidity 
     premium phenomenon in these markets is not obvious.
-* Decomposing and valuing exchangeable bonds: a new design based on multi stocks | working paper， Dec. 2023
+* Decomposing and valuing exchangeable bonds: a new design based on multi stocks ， working paper， Dec. 2023
   * Supervised by Prof. Jianfen Feng.
   * Based on the situation that large shareholders hold multiple stocks, this paper designs a research framework of the exchangeable bond based on multi stocks and 
     creatively designs the redemption trigger scale adjustment factor.
@@ -49,7 +49,7 @@ Research Experience
   * Compared with single-asset exchangeable bonds, exchangeable bonds based on multi-assets increases the option of the conversion resulting in the higher value of 
     the bonds. The sensitivity analysis shows that the redemption clause has a similar effect, while the selling back clause has little effect on the exchangeable 
     bonds based on two assets.
-* Clustering strategies based on stock price patterns | Course paper，	Jan. 2024
+* Clustering strategies based on stock price patterns ， Course paper，	Jan. 2024
   * Worked as a team leader on group assignments, responsible for topic selection, data collection, programming.
   * Extracted key price points of the stock chart to quantify the stock price patterns, and the K-clustering and support vector machine algorithms were used to 
     predict and select stocks. Calculated two-year holding returns.
@@ -58,7 +58,7 @@ Research Experience
   * Chose the tan value of the Angle between the lines of the two key price points to represent the rise and fall.
   * The overall performance of the strategy is better, with higher annualized return, smaller volatility and maximum retracement, larger sharpe ratio and net 
     worth, and significantly better than CSI300 in various indicators.
-* The impact of climate policy uncertainty on energy market and CER market | Graduation thesis， May. 2024
+* The impact of climate policy uncertainty on energy market and CER market ， Graduation thesis， May. 2024
   * Supervised by Prof. Jianfen Feng.
   * Research on how the impact of climate policy uncertainty affects the thermal coal futures market, crude oil futures market and carbon emission permit market, 
     and the difference of this impact under different market conditions.
@@ -67,7 +67,7 @@ Research Experience
   * Calculated directional, net and total spillover indexes to analyze the static spillover effects between climate policy uncertainty and energy market returns. 
     The rolling window is set as 36 months to observe the time series characteristics of the dynamic spillover effect between climate policy uncertainty and market 
     returns.
-* The impact of blockchain environmental monitoring on urban pollution | Research project，	Jun. 2024
+* The impact of blockchain environmental monitoring on urban pollution ， Research project，	Jun. 2024
   * Supervised by Prof. Will Cong and Prof. Yuanyu Qu.
   * As a research assistant, was responsible for data collection, empirical research and writing the intro of the paper.
   * Downloaded air quality data from the websites of prefecture-level and county-level municipal governments and extracted pollutants and economic indicators from 
@@ -76,7 +76,7 @@ Research Experience
     in environmental monitoring.
   * Defined the industry classification of air pollution, high emissions, high nitrogen and phosphorus emissions according to various types of pollution and 
     environment related documents issued by the government.
-* Forecasting Market Returns: The Role of Industries in China | Working paper，	Sep. 2024
+* Forecasting Market Returns: The Role of Industries in China ， Working paper，	Sep. 2024
   * Supervised by Prof. Jianfei Sun.
   * Investigated whether the returns of industry portfolios predict stock market movements. In Chinense stock market, a significant number of industry returns 
     forecast the stock market by up to two months.
