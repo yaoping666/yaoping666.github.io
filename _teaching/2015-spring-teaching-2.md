@@ -1,14 +1,17 @@
 ---
-title: "Teaching experience 2"
+title: "Intenship experience 2"
 collection: teaching
-type: "Workshop"
+#type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+venue: "Quantitative strategy department of CITIC Construction Investment Fund， June. 2023 — Sep. 2023"
+#date: 2015-01-01
 location: "City, Country"
 ---
+* Compiled the codes of quantitative stock selection strategies based on stock chart patterns.
+* Provided the codes for cutting and reflecting the stock k chart To simplify The stock k chart into a Z-shape.
+* Captured The text of the chapter of management discussion and analysis in the American annual report of 10 years by python and used R language to extract the 
+  sentences in which the keywords were located.
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======
