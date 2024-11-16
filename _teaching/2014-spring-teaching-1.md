@@ -3,12 +3,17 @@ title: "Intenship experience 1"
 collection: teaching
 # type: ""
 permalink: /teaching/2014-spring-teaching-1
-venue: "Huatai Securities Research Institute, Financial Engineering Group"
-date: 2014-01-01
+venue: "Huatai Securities Research Institute, Financial Engineering Group，Sep. 2022 — Apr. 2023"
+# date: 2014-01-01
 location: "City, Country"
 ---
+* Compiled the codes of style rotation,sector rotation and 30 technical factors independently.
+* Assisted in the construction of A-share overnight jump stock factor, information dispersion factor and Participated in writing 2 formal reports and compiled the 
+  backtest framework.
+* Built multi-factor stock selection strategies by using 7 machine learning algorithms and calculated the back-test overfit probability based on combinatorial symmetric cross validation (CSCV).
 
-This is a description of a teaching experience. You can use markdown like any other post.
+
+
 
 Heading 1
 ======
