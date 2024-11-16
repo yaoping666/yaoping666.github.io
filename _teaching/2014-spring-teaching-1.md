@@ -1,9 +1,9 @@
 ---
 title: "Intenship experience 1"
 collection: teaching
-# type: ""
+type: "Huatai Securities Research Institute"
 permalink: /teaching/2014-spring-teaching-1
-venue: "Huatai Securities Research Institute, Financial Engineering Group，Sep. 2022 — Apr. 2023"
+venue: "Financial Engineering Group，Sep. 2022 — Apr. 2023"
 # date: 2014-01-01
 location: "City, Country"
 ---
