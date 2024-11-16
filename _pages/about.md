@@ -17,11 +17,11 @@ Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you se
 
 Education
 ======
-*University of International Business and Economics	Sep 2023 - June 2025
-*Master of Finance	
+* University of International Business and Economics	Sep 2023 - June 2025
+ * Master of Finance	
 
-*University of International Business and Economics	Sep 2019 - June 2023
-*Bachelor degree in Financial engineering	
+* University of International Business and Economics	Sep 2019 - June 2023
+ * Bachelor degree in Financial engineering	
 
 
 Site-wide configuration
