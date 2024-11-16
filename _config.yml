@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yaoping Xu / Homepage"
+title                    : "Yaoping Xu "
 title_separator          : "-"
 name                     : &name "Yaoping Xu"
 description              : &description "personal description"
