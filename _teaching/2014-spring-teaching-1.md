@@ -1,8 +1,6 @@
----
-title: "Intenship experience 1"
 
-permalink: /teaching/2014-spring-teaching-1
----
+Internship
+=========
 * Compiled the codes of style rotation,sector rotation and 30 technical factors independently.
 * Assisted in the construction of A-share overnight jump stock factor, information dispersion factor and Participated in writing 2 formal reports and compiled the 
   backtest framework.
