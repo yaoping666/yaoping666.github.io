@@ -1,9 +1,9 @@
 ---
 title: "Intenship experience 2"
 collection: teaching
-#type: "Workshop"
+type: "Quantitative strategy department of CITIC Construction Investment Fund"
 permalink: /teaching/2015-spring-teaching-1
-venue: "Quantitative strategy department of CITIC Construction Investment Fund， June. 2023 — Sep. 2023"
+venue: " June. 2023 — Sep. 2023"
 #date: 2015-01-01
 location: "City, Country"
 ---
