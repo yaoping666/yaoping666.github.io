@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Student in Master of Finance"
   location         : "Beijing"
-  employer         : "UIBE"
-  uri              : https://english.uibe.edu.cn/
+  employer         : "UIBE" https://english.uibe.edu.cn/
+  uri              : # URL
   email            : "yaopingxu1@gmail.com" 
 
   # Academic websites
