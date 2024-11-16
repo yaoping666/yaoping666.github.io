@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "MVIMG_2024.png"
+  avatar           : "MVIMG_202.png"
   name             : "Yaoping Xu"
   pronouns         : # example: "she/her"  
   bio              : "Student in Master of Finance"
