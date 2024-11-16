@@ -1,6 +1,6 @@
 ---
 title: "Intenship experience 1"
-collection: teaching
+
 permalink: /teaching/2014-spring-teaching-1
 ---
 * Compiled the codes of style rotation,sector rotation and 30 technical factors independently.
