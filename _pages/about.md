@@ -37,8 +37,7 @@ Research Experience
   * Empirical tests showed that there is not only a significant liquidity premium in China's A-share stock market, but also that stock liquidity plays an important role in the asset pricing process.
   * Studied the applicability of liquidity index and asset pricing model for other small and medium-sized stock markets in China, and found that the liquidity premium phenomenon in these markets is not obvious.
 * Decomposing and valuing exchangeable bonds: a new design based on multi stocks ， working paper， Dec. 2023
-  * Supervised by Prof. Jianfen Feng.
-  * Based on the situation that large shareholders hold multiple stocks, this paper designs a research framework of the exchangeable bond based on multi stocks and creatively designs the redemption trigger scale adjustment factor.
+    * Based on the situation that large shareholders hold multiple stocks, this paper designs a research framework of the exchangeable bond based on multi stocks and creatively designs the redemption trigger scale adjustment factor.
   * Provided numerical example, studied the valuation for exchangeable bonds and sensitivity analysis of parameters by combining the least squares Monte Carlo simulation method and the public random number method.
   * Compared with single-asset exchangeable bonds, exchangeable bonds based on multi-assets increases the option of the conversion resulting in the higher value of the bonds. The sensitivity analysis shows that the redemption clause has a similar effect, while the selling back clause has little effect on the exchangeable bonds based on two assets.
 * Clustering strategies based on stock price patterns ， Course paper，	Jan. 2024
