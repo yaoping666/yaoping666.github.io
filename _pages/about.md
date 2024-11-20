@@ -40,7 +40,7 @@ Research Experience
   * Provided numerical example, studied the valuation for exchangeable bonds and sensitivity analysis of parameters by combining the least squares Monte Carlo simulation method and the public random number method.
   * Compared with single-asset exchangeable bonds, exchangeable bonds based on multi-assets increases the option of the conversion resulting in the higher value of the bonds. The sensitivity analysis shows that the redemption clause has a similar effect, while the selling back clause has little effect on the exchangeable bonds based on two assets.
 * Clustering strategies based on stock price patterns ， Course paper，	Jan. 2024
-  * Worked as a team leader on group assignments, responsible for topic selection, data collection, programming.
+  * Worked as a team leader, responsible for topic selection, data collection, programming.
   * Extracted key price points of the stock chart to quantify the stock price patterns, and the K-clustering and support vector machine algorithms were used to predict and select stocks. Calculated two-year holding returns.
   * Calculated the difference between each closing price chart and the two adjacent closing prices. The first few key points which were the most different from the 
     adjacent points were used as the standard of classification.
