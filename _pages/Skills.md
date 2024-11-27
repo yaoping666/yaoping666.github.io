@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills and Research Interests"
+title: "Skills & Research Interests"
 permalink: /skills/
 author_profile: true
 ---
