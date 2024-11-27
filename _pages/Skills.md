@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Skills and Interests"
+title: "Skills and Research Interests"
 permalink: /skills/
 author_profile: true
 ---
@@ -9,4 +9,4 @@ author_profile: true
 &emsp; &emsp;&emsp;&emsp;&emsp;&ensp;English: Toefl 110 Gre 330  
 **Research Interests**: Asset pricing, Behavioral Finance, Digital economy
 
-G
+
