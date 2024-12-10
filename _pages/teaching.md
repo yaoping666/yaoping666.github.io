@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Intenship"
+title: "Internship"
 permalink: /teaching/
 author_profile: true
 ---
